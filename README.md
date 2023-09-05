@@ -1,19 +1,20 @@
 # project-3-MJ
 
-Contributors: Michaela Johnson, Jessica Pilon, Tracy Tachick
+Contributors: Michaela Johnson, Tracy Tachick
 
 Folders and Files:
 
 healthdata_postgresql_table (code and snapshot of healthdata table in PostgreSQL, MJ)
 
-Code --> AppProj3.py (flask app, TT)
+AppProj3.py (flask app, TT)
 
-Code --> Template --> index.html (MJ)
+Template --> index.html (MJ)
 
-Code --> static --> js --> logic.js (pie chart + drop down, MJ), logic2.js (line graph, MJ)
-Code --> static --> css --> style.css
+static --> js --> logic.js (pie chart + drop down, MJ), logic2.js (line graph, MJ)
+static --> css --> style.css
 
-Code --> static --> resources--> healthdata.csv (source data, all worked on)
+static --> resources--> healthdata.csv (source data, all worked on)
+
 
 Topic:
 
